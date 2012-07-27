@@ -1,0 +1,5 @@
+  This is a script that I use to retrieve the OpenCL information of
+OpenCL compatible hardware. 
+
+  There are a couple of pieces of information that are missing from
+the output...
